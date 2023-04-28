@@ -9,7 +9,7 @@ with open("flights.csv") as f:
 
 
 
-## PROBLEM 1: CLEANING DATA
+## PROBLEM 1: CLEANING DATA  ##
 
 def clean_data():
     cleaned_data = []
